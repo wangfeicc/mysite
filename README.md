@@ -1,0 +1,2 @@
+# mysite
+thinking in life
