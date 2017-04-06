@@ -1,2 +1,1 @@
-# Something in life
-thinking in life
+# Something In Life
